@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../lib/main.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="navbar"></div>
+    <div id="navbar"></div>
+    <div class="" id="reader">
+        
+    </div>
+    <script src="../lib/main.js"></script>
+    <script type="text/javascript">
+        loadNavbar();
+        const url_string = window.location.href;
+        const pathss = url_string.split('file=')[1];
+        console.log(pathss)
+
+        
+        loadFile(pathss);
+    </script>
+</body>
+
+</html>
