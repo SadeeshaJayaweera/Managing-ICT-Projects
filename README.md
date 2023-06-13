@@ -1,5 +1,9 @@
 # Managing ICT Projects
 
+<div align="center">
+  <img src="Product-Development.JPG" alt="Product Development" width="400px">
+</div>
+
 This repository contains the project work for the "MANAGING ICT PROJECTS" course, which was completed as part of the International Advanced Level (UK High School) Applied ICT subject. The course covered various aspects of project management in the field of Information and Communication Technology.
 
 ## Project Plans
